@@ -29,7 +29,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Github Repo](https://github.com/musicalen89/QR-Code-Component)
-- Live Site URL: [Live Website](https://freeweb.t-2.net/musicalen89/QR-Code-Component/index.html)
+- Live Site URL: [Live Website](https://qr-code-component-36qlj8a5u-musicalen89.vercel.app/?vercelToolbarCode=Ts5tkEOz_5gjjMf)
 
 ## My process
 
