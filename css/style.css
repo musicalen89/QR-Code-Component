@@ -48,6 +48,7 @@ body {
 .card > p {
     text-align: center;
     color: var(--grayishBlue);
+    font-weight: var(--fw-light);
     margin-top: 16px;
 }
 .attribution { 
@@ -55,6 +56,7 @@ body {
     text-align: center;
     position: absolute;
     bottom: 0;
+    margin-bottom: 10px;
 }
 .attribution a {
      color: hsl(228, 45%, 44%);
